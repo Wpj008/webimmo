@@ -40,8 +40,8 @@
           <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
         </ul>
         <div class="d-flex align-items-center gap-2">
-          <a href="login.html" class="btn btn-outline-light-2">Connexion</a>
-          <a href="register.html" class="btn btn-gold">S'inscrire</a>
+          <a href="pages/connexion.php" class="btn btn-outline-light-2">Connexion</a>
+        
         </div>
       </div>
     </div>
@@ -60,7 +60,7 @@
           </p>
           <div class="d-flex flex-wrap gap-3 mt-4 wi-animate wi-delay-3">
             <a href="properties.html" class="btn btn-gold btn-lg"><i class="bi bi-houses me-2"></i>Voir les biens</a>
-            <a href="contact.html" class="btn btn-outline-light-2 btn-lg"><i class="bi bi-chat-dots me-2"></i>Nous contacter</a>
+            <a href="pages/contact.php" class="btn btn-outline-light-2 btn-lg"><i class="bi bi-chat-dots me-2"></i>Nous contacter</a>
           </div>
         </div>
       </div>
@@ -440,11 +440,11 @@
         <div class="row align-items-center g-4">
           <div class="col-lg-8">
             <h2 class="text-white mb-2">Prêt à concrétiser votre projet immobilier&nbsp;?</h2>
-            <p class="mb-0" style="color:rgba(255,255,255,.85)">Créez votre compte gratuitement et accédez à des annonces exclusives avant tout le monde.</p>
+            <p class="mb-0" style="color:rgba(255,255,255,.85)">Accédez à des annonces exclusives avant tout le monde.</p>
           </div>
           <div class="col-lg-4 text-lg-end">
-            <a href="register.html" class="btn btn-gold btn-lg me-2">Créer un compte</a>
-            <a href="properties.html" class="btn btn-outline-light-2 btn-lg mt-2 mt-sm-0">Explorer</a>
+            
+            <a href="../pages/properties.php" class="btn btn-gold btn-lg me-2">Explorer</a>
           </div>
         </div>
       </div>
