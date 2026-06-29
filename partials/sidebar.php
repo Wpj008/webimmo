@@ -32,7 +32,8 @@
       <nav class="dash-nav">
         <span class="nav-section">Pilotage</span>
         <a href="dashboard_agent.php" class="dash-link active"><i class="bi bi-grid-1x2"></i> Tableau de bord</a>
-        <a href="../pages/properties.php" class="dash-link"><i class="bi bi-houses"></i> Mes annonces <span class="badge badge-soft rounded-pill">24</span></a>
+        <a href="../pages/properties.php" class="dash-link"><i class="bi bi-houses"></i> Biens</a>
+        <a href="../pages/property_by_user.php" class="dash-link"><i class="bi bi-houses"></i> Mes annonces <span class="badge badge-soft rounded-pill">24</span></a>
         <a href="../pages/add_property.php" class="dash-link"><i class="bi bi-plus-square"></i> Ajouter un bien</a>
         <a href="../pages/message.php" class="dash-link"><i class="bi bi-chat-dots"></i> Messages <span class="badge badge-gold rounded-pill">5</span></a>
         <span class="nav-section">Activité</span>
