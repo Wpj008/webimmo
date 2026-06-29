@@ -9,7 +9,7 @@
    <div class="row g-4">
      <div class="col-lg-4">
        <a href="index.html" class="footer-brand text-decoration-none d-inline-flex align-items-center gap-2">
-         <span class="brand-badge"><i class="bi bi-buildings"></i></span> Web<span>Immo</span>
+         <span class="brand-badge"><i class="bi bi-buildings"></i></span> Ky<span>Immo</span>
        </a>
        <p class="mt-3" style="max-width:320px">La plateforme immobilière premium qui réunit acheteurs, vendeurs et agents d'exception en toute confiance.</p>
        <div class="d-flex gap-2 mt-3">
@@ -43,7 +43,7 @@
    </div>
    <hr class="my-4">
    <div class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-2 small">
-     <span>© 2026 WebImmo. Tous droits réservés.</span>
+     <span>© 2026 Ky Immo. Tous droits réservés.</span>
      <div class="d-flex gap-3"><a href="#">Mentions légales</a><a href="#">Confidentialité</a><a href="#">CGU</a></div>
    </div>
  </div>
